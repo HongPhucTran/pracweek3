@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 gg123455
+=======
+<<<<<<< HEAD
+gg12398
+||||||| merged common ancestors
+gg123
+=======
+gg12345
+>>>>>>> a4ac60930b5057b9163e9ed6f5a8efd5662819dd
+>>>>>>> 0183989ce73bbb3e318fc7a63e36d2516154aa3c
