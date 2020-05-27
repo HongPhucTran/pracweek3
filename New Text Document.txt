@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 123
+||||||| merged common ancestors
+<<<<<<< HEAD
+2456
+||||||| merged common ancestors
+12355
+=======
+1
+>>>>>>> 8ea07cf8bf2b77132ffa3927978a0a6c6d605024
+=======
+<<<<<<< HEAD
+1245
+=======
+<<<<<<< HEAD
+2456
+||||||| merged common ancestors
+12355
+=======
+1
+>>>>>>> 8ea07cf8bf2b77132ffa3927978a0a6c6d605024
+>>>>>>> a2f37def122ac1d31255cffc173d26a10d3f3708
+>>>>>>> 8c5cd9d04917e605e85bf703227b86d41bfce596
